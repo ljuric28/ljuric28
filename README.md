@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with Java Script and React.js
 - 💬 Ask me about me
 - 📫 How to reach me: via e-mail
-- ⚡ Fun fact: I can beat you if you're kidding me ;-) LOL
+...
